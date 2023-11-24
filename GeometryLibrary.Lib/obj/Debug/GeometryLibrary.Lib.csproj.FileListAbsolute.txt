@@ -1,0 +1,6 @@
+C:\MyProjects\GeometryLibrary\GeometryLibrary.Lib\bin\Debug\GeometryLibrary.Lib.dll
+C:\MyProjects\GeometryLibrary\GeometryLibrary.Lib\bin\Debug\GeometryLibrary.Lib.pdb
+C:\MyProjects\GeometryLibrary\GeometryLibrary.Lib\obj\Debug\GeometryLibrary.Lib.csproj.AssemblyReference.cache
+C:\MyProjects\GeometryLibrary\GeometryLibrary.Lib\obj\Debug\GeometryLibrary.Lib.csproj.CoreCompileInputs.cache
+C:\MyProjects\GeometryLibrary\GeometryLibrary.Lib\obj\Debug\GeometryLibrary.Lib.dll
+C:\MyProjects\GeometryLibrary\GeometryLibrary.Lib\obj\Debug\GeometryLibrary.Lib.pdb
